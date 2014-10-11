@@ -18,7 +18,7 @@ import java.sql.*;
       
 	login(){
 		 
-		f=new JFrame("图书管理");
+		f=new JFrame("图书管理系统");
 		j1=new JButton("确定");
 		j2=new JButton("取消");
 		cp=f.getContentPane();
